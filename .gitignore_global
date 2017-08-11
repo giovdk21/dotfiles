@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+.yardoc/
+doc/
+.yardopts
+.DS_Store
