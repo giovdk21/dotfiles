@@ -1,0 +1,21 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "gitlens.blame.line.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.advanced.telemetry.enabled": false,
+    "explorer.openEditors.dynamicHeight": false,
+    "explorer.openEditors.visible": 0,
+    "editor.fontSize": 14,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "[ruby]": {
+        "editor.tabSize": 2
+    },
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "files.trimTrailingWhitespace": false
+    }
+}

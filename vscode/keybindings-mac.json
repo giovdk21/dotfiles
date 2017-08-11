@@ -1,0 +1,24 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "cmd+[Backslash]",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "-workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "workbench.action.terminal.focusNext"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
+    {
+        "key": "ctrl+cmd+r",
+        "command": "workbench.action.tasks.runTask",
+        "args": "ls"
+    }
+]
